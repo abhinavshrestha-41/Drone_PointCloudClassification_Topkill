@@ -39,4 +39,4 @@ Things to note:
 ### Point classification on example tree
 ![point classification results example](../../docs/RFClassif_Example.jpg)
 
-Classification probability (from application of the random forest (RF) model) of an example tree. (a) True color representation of the point cloud. (b) RF classification; green is healthy, red is red, gray is gray, and black is shadow. (c) The probabilities of classes shown in (b); darker colors represent higher probabilities of classification.
+*Classification probability (from application of the random forest (RF) model) of an example tree. (a) True color representation of the point cloud. (b) RF classification; green is healthy, red is red, gray is gray, and black is shadow. (c) The probabilities of classes shown in (b); darker colors represent higher probabilities of classification.*
