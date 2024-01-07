@@ -18,7 +18,7 @@ Things to note:
 <img align="right" src= "../../docs/CollectionReferenceData_points.gif">
 
 * The reference data of points was assembled using a subset of the point cloud that contains points with unique `ID_point` created using the `01_create_ReferenceData_POINTS.R` script.
-* The unique `ID_point` linked the collection of reference points in the subset point cloud to their reference classes (`green`, `red`, `gray`, `shadow`).
+* The unique `ID_point` linked the collection of reference points in the subset point cloud to their reference classes (<span style="color:green">**green**</span>,<span style="color:red"> **red**</span>, <span style="color:gray"> **gray**</span>,<span style="color:black"> **shadow**</span>).
 
 <br>
 <br>
