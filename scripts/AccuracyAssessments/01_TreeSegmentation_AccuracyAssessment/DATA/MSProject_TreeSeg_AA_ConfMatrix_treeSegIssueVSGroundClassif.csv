@@ -1,0 +1,6 @@
+﻿ClassValue,C_0,C_1,Total,Com Err,U_Accuracy
+C_0,365,352,717,49.09%,50.91%
+C_1,35,248,283,12.37%,87.63%
+Total,400,600,1000,,
+Om Err,8.75%,58.67%,,Overall Accuracy,61.30%
+P_Accuracy,91.25%,41.33%,,Kappa,28.78%

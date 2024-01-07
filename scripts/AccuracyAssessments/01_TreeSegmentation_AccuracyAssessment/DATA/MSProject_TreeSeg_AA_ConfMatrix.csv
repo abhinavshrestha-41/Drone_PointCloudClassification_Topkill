@@ -1,0 +1,7 @@
+﻿,Reference,,,,
+Class,Not tree,Tree,Total,Comm. Error,User Acc.
+Not tree,361,356,717,49.65%,50.35%
+Tree,36,247,283,12.72%,87.28%
+Total,397,603,1000,,
+Omis. Error,9.07%,59.04%,,Overall Accuracy,60.80%
+Producer Acc.,90.93%,40.96%,,Kappa,28.03%
