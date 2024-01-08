@@ -17,9 +17,9 @@ Project title: **Combining multispectral and three-dimensional data from drone i
 
 <br>
 
-![Project banner](docs/ProjectBanner.png)  
+![Graphical abstract](docs/GraphicalAbstract.png)  
 
-*Diagrammatic representation of developed methdology for this project. Details of the methodology are in the  [`scripts`](scripts) directory*
+*Graphical abstract for this project. Details of the methodology are in the  [`scripts`](scripts) directory*
 
 ----------------------------------------------------------
 ### Code developed by:
