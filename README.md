@@ -15,11 +15,10 @@ Project title: **Combining multispectral and three-dimensional data from drone i
 * The [`scripts`](scripts) directory contains R and python scripts in numbered sub-directories that outline the methodology of this project.
 * The [`docs`](docs) directory contains housekeeping documents and figures used for the construction and maintainance of this repository.
 
-<br>
-
+### Graphical abstract:
 ![Graphical abstract](docs/GraphicalAbstract.png)  
 
-*Graphical abstract for this project. Details of the methodology are in the  [`scripts`](scripts) directory*
+> *Details of the methodology are in the  [`scripts`](scripts) directory*
 
 ----------------------------------------------------------
 ### Code developed by:
