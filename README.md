@@ -1,6 +1,6 @@
 # Tree segmentation and point cloud classification for tree damage assessment and top-kill detection: Code repository
 
-Project title: **Combining multispectral and three-dimensional data from drone imagery to detect the vertical structure of insect damage in trees in the northern Rocky Mountains, USA**
+Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using a combination of multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
 <br>
 
 ### Repository information:
