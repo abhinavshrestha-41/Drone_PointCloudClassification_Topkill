@@ -23,8 +23,7 @@
   + Main paper: [https://www.degruyter.com/document/doi/10.1515/geo-2020-0290/html?lang=en](https://www.degruyter.com/document/doi/10.1515/geo-2020-0290/html?lang=en)
   + Tutorial in supplementary material: [https://www.degruyter.com/document/doi/10.1515/geo-2020-0290/downloadAsset/suppl/geo-2020-0290_sm.pdf](https://www.degruyter.com/document/doi/10.1515/geo-2020-0290/downloadAsset/suppl/geo-2020-0290_sm.pdf)
 
-Roussel, J.-R., Auty, D., 2023. Airborne LiDAR Data Manipulation and Visualization for Forestry Applications.  
+Roussel, J.R., Auty, D., Coops, N. C., Tompalski, P., Goodbody, T. R. H., Sánchez Meador, A., Bourdon, J.F., De Boissieu, F., Achim, A. (2021). lidR : An R package for analysis of Airborne Laser Scanning (ALS) data. Remote Sensing of Environment, 251 (August), 112061. [doi:10.1016/j.rse.2020.112061](https://doi.org/10.1016/j.rse.2020.112061).
 
-Roussel, J.-R., Auty, D., Coops, N.C., Tompalski, P., Goodbody, T.R.H., Meador, A.S., Bourdon, J.-F., Boissieu, F. de, Achim, A., 2020. lidR: An R package for analysis of Airborne Laser Scanning (ALS) data. Remote Sensing of Environment 251, 112061. https://doi.org/10.1016/j.rse.2020.112061
-
+Jean-Romain Roussel and David Auty (2023). Airborne LiDAR Data Manipulation and Visualization for Forestry Applications. R package version 3.1.0. https://cran.r-project.org/package=lidR 
 
