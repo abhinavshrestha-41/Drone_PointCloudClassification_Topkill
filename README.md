@@ -1,4 +1,4 @@
-# Tree segmentation and point cloud classification for tree damage assessment and top-kill detection: Code repository
+# Tree segmentation and point cloud classification for tree damage assessment and top-kill assessment: Code repository
 
 > Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using a combination of multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
 
