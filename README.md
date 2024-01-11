@@ -33,7 +33,8 @@ Contact information:
 
 ### Acknowledgements
 
-**The research for this project was conducted in the ancestral homelands of the Ksanka (Kootenai), Ql̓ispé (Pend d’Oreille), and Sélish (Salish) tribes of western Montana.**
+> [!NOTE]  
+> The research for this project was conducted in the ancestral homelands of the Ksanka (Kootenai), Ql̓ispé (Pend d’Oreille), and Sélish (Salish) tribes of western Montana.
 
 Drone data used for this MS thesis was collected for a broader project assessing tree damage funded by the <a href = "https://www.earthdata.nasa.gov/esds/csda" target="_blank">NASA Commercial SmallSat Data Analysis (NASA CSDA) project</a> (NASA CSDA, award #80NSSC21K115).
 
