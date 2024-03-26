@@ -2,7 +2,7 @@
 
 ### Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
 
-> Abhinav Shrestha<sup>1</sup>, Jeffrey A. Hicke<sup>1</sup>, Arjan J. H. Meddens<sup>2</sup>, Jason W. Karl<sup>3</sup>, and Amanda T. Stahl<sup>2</sup>
+> Abhinav Shrestha<sup> 1</sup>, Jeffrey A. Hicke<sup> 1</sup>, Arjan J. H. Meddens<sup> 2</sup>, Jason W. Karl<sup> 3</sup>, and Amanda T. Stahl<sup> 2</sup>
 
 > <sup>1</sup> Department of Earth and Spatial Sciences, University of Idaho, Moscow, ID, USA 83844  
 <sup>2</sup> School of the Environment, Washington State University, Pullman, WA, USA, 99164  
