@@ -1,6 +1,6 @@
 # Tree segmentation and point cloud classification for tree damage assessment and top-kill assessment: Code repository
 
-> Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
+### Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
 
 > Abhinav Shrestha<sup>1</sup>, Jeffrey A. Hicke<sup>1</sup>, Arjan J. H. Meddens<sup>2</sup>, Jason W. Karl<sup>3</sup>, and Amanda T. Stahl<sup>2</sup>
 
