@@ -2,6 +2,13 @@
 
 > Project title: **Evaluating a novel approach to detect the vertical structure of insect damage in trees using multispectral and three-dimensional data from drone imagery in the northern Rocky Mountains, USA**
 
+> Abhinav Shrestha<sup>1</sup>, Jeffrey A. Hicke<sup>1</sup>, Arjan J. H. Meddens<sup>2</sup>, Jason W. Karl<sup>3</sup>, and Amanda T. Stahl<sup>2</sup>
+
+> <sup>1</sup> Department of Earth and Spatial Sciences, University of Idaho, Moscow, ID, USA 83844  
+<sup>2</sup> School of the Environment, Washington State University, Pullman, WA, USA, 99164  
+<sup>3</sup> Department of Forest, Rangeland, and Fire Sciences, University of Idaho, Moscow, ID, USA 83844
+
+
 ### Repository information:
 * This GitHub repository contains necessary code and materials for combination of tree segmentation and point cloud classification for subsequent tree damage assessment and top-kill detection.
 * The metholody uses functions from the [`lidR`](https://github.com/r-lidar/lidR) R package.  
