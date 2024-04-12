@@ -13,7 +13,11 @@
 * This GitHub repository contains necessary code and materials for combination of tree segmentation and point cloud classification for subsequent tree damage assessment and top-kill detection.
 * The metholody uses functions from the [`lidR`](https://github.com/r-lidar/lidR) R package.  
 * The code available in the repository is to be applied to a subset data of the study site (also included in the repository). 
-* Please refer to the manuscript for details about the project **[URL FOR MANUSCRIPT]**  
+* Please refer to the [manuscript](https://www.mdpi.com/2072-4292/16/8/1365) for details about the project. 
+    + [![Static Badge](https://img.shields.io/badge/%20DOI%3A-10.3390%2Frs160813650-blue?style=plastic
+    )](https://doi.org/10.3390/rs16081365)
+
+
 
 #### The repository contains the following directories:
 * The [`scripts`](scripts) directory contains R and python scripts in numbered sub-directories that outline the methodology of this project.
