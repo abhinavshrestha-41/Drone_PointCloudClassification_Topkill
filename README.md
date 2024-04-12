@@ -14,6 +14,7 @@
 * The metholody uses functions from the [`lidR`](https://github.com/r-lidar/lidR) R package.  
 * The code available in the repository is to be applied to a subset data of the study site (also included in the repository). 
 * Please refer to the [manuscript](https://www.mdpi.com/2072-4292/16/8/1365) for details about the project. 
+
     + [![Static Badge](https://img.shields.io/badge/%20DOI%3A-10.3390%2Frs160813650-blue?style=plastic
     )](https://doi.org/10.3390/rs16081365)
 
