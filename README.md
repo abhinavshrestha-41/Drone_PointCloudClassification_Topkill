@@ -39,7 +39,7 @@ University of Idaho, Moscow, ID
 ### Current position and contact information:
 Abhinav Shrestha  
 Remote Sensing and Geospatial Specialist, RedCastle Resources, Inc.  
-Federal Contractor for [USDA Forest Service](https://www.fs.usda.gov/) ([Geospatial Technology and Applications Center (GTAC)](https://www.fs.usda.gov/about-agency/gtac))  
+Federal Contractor for [USDA Forest Service](https://www.fs.usda.gov/) [Geospatial Technology and Applications Center (GTAC)](https://www.fs.usda.gov/about-agency/gtac)  
 Salt Lake City, UT
 
 **Contact information**: 
