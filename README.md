@@ -29,14 +29,21 @@
 
 > *Details of the methodology are in the  [`scripts`](scripts) directory*
 
-----------------------------------------------------------
-### Code developed by:
+#### Code developed by:
 Abhinav Shrestha  
 Principal investigator  
 MS, Department of Earth and Spatial Sciences  
 University of Idaho, Moscow, ID
 
-Contact information: 
+----------------------------------------------------------
+### Current position and contact information:
+Abhinav Shrestha  
+Remote Sensing and Geospatial Specialist  
+Federal Contractor  
+[Geospatial Technology and Applications Center (GTAC)](https://www.fs.usda.gov/about-agency/gtac), [USDA Forest Service](https://www.fs.usda.gov/)  
+Salt Lake City, UT
+
+**Contact information**: 
 * abhinav.shrestha96@gmail.com 
 * [Academic website]( https://abhinavshrestha-41.github.io/)  
 * [GitHub](https://github.com/abhinavshrestha-41)
